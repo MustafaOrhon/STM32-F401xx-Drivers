@@ -72,3 +72,6 @@ while(1)
 ```
 ## Contributing
 If you find a bug or would like to contribute to this project, please open an issue or a pull request. Contributions are welcome and appreciated!
+## Acknowledgements
+
+This library was inspired by the course Mastering Microcontroller with Embedded Driver Development on Udemy, and was modified to work with the STM32F401RE microcontroller. I would like to thank the instructor of the course for providing a clear and concise explanation of the concepts, and for helping me get started with writing drivers for microcontrollers.
